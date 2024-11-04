@@ -1,0 +1,62 @@
+[
+  {
+    "idProduct": 10,
+    "nameProduct": "Cheese",
+    "priceProduct": 38.0,
+    "dateCreate": "2023-05-13",
+    "category": {
+      "idCategory": 2,
+      "category": "Dairy"
+    }
+  },
+  {
+    "idProduct": 14,
+    "nameProduct": "Salmon",
+    "priceProduct": 120.0,
+    "dateCreate": "2023-05-13",
+    "category": {
+      "idCategory": 5,
+      "category": "Seafood"
+    }
+  },
+  {
+    "idProduct": 15,
+    "nameProduct": "Caviar",
+    "priceProduct": 300.0,
+    "dateCreate": "2023-05-13",
+    "category": {
+      "idCategory": 5,
+      "category": "Seafood"
+    }
+  },
+  {
+    "idProduct": 16,
+    "nameProduct": "Banana",
+    "priceProduct": 20.0,
+    "dateCreate": "2023-05-17",
+    "category": {
+      "idCategory": 6,
+      "category": "Fruit"
+    }
+  },
+  {
+    "idProduct": 17,
+    "nameProduct": "Milk",
+    "priceProduct": 6.0,
+    "dateCreate": "2023-05-13",
+    "category": {
+      "idCategory": 2,
+      "category": "Dairy"
+    }
+  },
+  {
+    "idProduct": 23,
+    "nameProduct": "test",
+    "priceProduct": 98.0,
+    "dateCreate": "2023-11-18",
+    "category": {
+      "idCategory": 3,
+      "category": "Meat"
+    }
+  }
+]
